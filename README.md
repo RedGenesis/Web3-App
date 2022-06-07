@@ -7,7 +7,7 @@ It allows the user to connect their MetaMask wallet and then click on a button t
 
 Install the latest version of Node.js: https://nodejs.org/en/
 
-Clone this repository using:\
+Clone this repository using:
 ### `git clone URL`
 
 Open up your terminal, and then cd into the project directory.\
