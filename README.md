@@ -1,6 +1,6 @@
 # Web3-App
 
-This project was created using React and the web3.js API.\
+This project was created using React and the web3.js library.\
 It allows the user to connect their MetaMask wallet and then click on a button to send ETH.
 
 ## Install instructions
